@@ -1,12 +1,7 @@
-Yii 2 Basic Application Template
+Moosichu.com's source code
 ================================
 
-Yii 2 Basic Application Template is a skeleton Yii 2 application best for
-rapidly creating small projects.
-
-The template contains the basic features including user login/logout and a contact page.
-It includes all commonly used configurations that would allow you to focus on adding new
-features to your application.
+Here is thource code to my website. Based on Yii2's skeleton application, everything you need to know about it is below.
 
 
 DIRECTORY STRUCTURE
